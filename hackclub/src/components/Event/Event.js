@@ -19,7 +19,7 @@ export default function Event() {
     return (
         <>
 
-            <div className="Event" id="Event">
+            <div  className="Event" id="Event">
             <div className="eventcontainer-class">
                        
                    

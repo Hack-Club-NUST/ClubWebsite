@@ -1,6 +1,7 @@
 import React from 'react'
 import ContactUslogo from '../eventimages/support-team.png'
-
+import AvatarComponent from 'avataaars'
+import Avatar from 'avataaars'
 
 export default function ContactUs() {
 
@@ -14,34 +15,105 @@ export default function ContactUs() {
 <div className="container">
     <div className="row ">
         
-        <div className="col-xs-12 offset-2 d-flex  justify-content-center col-sm-12 col-md-5 contact-us-left-container">
+        <div className="col-xs-12  d-flex  justify-content-center col-sm-12 col-md-6 contact-us-left-container">
+       
+        <div class="card" style={{width:'22rem'}}>
+  <div class="card-body">
+    <h5 class="card-title">Talk to a member of our Support team</h5>
+    <Avatar
+avatarStyle='Transparent'
+topType='Hat'
+accessoriesType='Sunglasses'
+facialHairType='Blank'
+clotheType='GraphicShirt'
+clotheColor='Blue03'
+graphicType='Hola'
+eyeType='Surprised'
+eyebrowType='RaisedExcited'
+mouthType='Smile'
+skinColor='Pale'
+style={{marginTop:'5%'}}
+/>
+ 
+  <p class="card-text" style={{marginTop:'10%'}}>   <a href="mailto:hackclub.nust@seecs.edu.pk"> <button className="contactusbutton">
+ 
+      Drop A Message</button> </a> </p>
 
-
-        <form id="contact-form" className="w-100" >
-{/* <h4 className="contact-us-heading ">Drop us a message</h4> */}
-    <div className="form-group contact-us-name-div w-75">
-        <label htmlFor="name">Name</label>
-        <input type="text" className="form-control " />
-    </div>
-    <div className="form-group contact-us-email-div w-75">
-        <label htmlFor="exampleInputEmail1">Email address</label>
-        <input type="email" className="form-control" aria-describedby="emailHelp" />
-    </div>
-    <div className="form-group contact-us-message-div w-75">
-        <label htmlFor="message">Message</label>
-        <textarea className="form-control" rows="5"></textarea>
-    </div>
-    <div className="text-align submit-btn-div w-75">
-    <button type="submit" className="btn  submit-btn">Submit</button>
-    </div>
-</form>
+  </div>
+</div>
+  
 
 </div>
 
-<div className="col-4 d-none d-sm-none d-md-block contact-us-right-container">
+<div className="col-6 d-none d-sm-none d-md-block contact-us-right-container">
+
+<div class="card" style={{width:'22rem'}}>
+  <div class="card-body">
+    <h5 class="card-title text-center">Contact Details</h5>
+<br/>
+
+    <h6 class="card-text text-center">
+ Hack Club Nust  Email:  </h6>
+ <p class="card-text text-center" > <a href="mailto:hackclub.nust@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+ hackclub.nust@seecs.edu.pk
+ </a>   </p> 
+
+ <h6 class="card-text text-center">
+ President:  </h6>
+ <p class="card-text text-center" > <a href="mailto:mkhaskheli.bese18seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+ mkhaskheli.bese18seecs@seecs.edu.pk
+ </a>   </p> 
+
+ <h6 class="card-text text-center">
+Web & It:  </h6>
+ <p class="card-text text-center" > <a href="mailto:hmehmood.bese18seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+ hmehmood.bese18seecs@seecs.edu.pk
+ </a>   </p> 
 
 
-<img src={ContactUslogo} alt="" className="contact-us-image" />
+ <h6 class="card-text text-center">
+General Secretary:  </h6>
+ <p class="card-text text-center" > <a href="mailto:aqureshi.bese18seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+ aqureshi.bese18seecs@seecs.edu.pk
+ </a>   </p> 
+
+
+ <h6 class="card-text text-center">
+ Treasurer:  </h6>
+ <p class="card-text text-center" > <a href="mailto:fzaheer.bscs19seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+ fzaheer.bscs19seecs@seecs.edu.pk
+ </a>   </p> 
+
+ <h6 class="card-text text-center">
+ Press Secretary:  </h6>
+ <p class="card-text text-center" > <a href="mailto:atariq.bese18seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+ fatariq.bese18seecs@seecs.edu.pk
+ </a>   </p> 
+
+ <h6 class="card-text text-center">
+ Js To Ps:  </h6>
+ <p class="card-text text-center" > <a href="mailto:atariq.bese18seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+ aahmad.Bese18seecs@seecs.edu.pk
+ </a>   </p> 
+
+
+
+
+
+
+
+   
+
+
+
+
+   
+    {/* <p class="card-text">   <button className="contactusbutton">Drop A Message</button> </p> */}
+
+  </div>
+</div>
+
+{/* <img src={ContactUslogo} alt="" className="contact-us-image" /> */}
 
 </div>
 </div>

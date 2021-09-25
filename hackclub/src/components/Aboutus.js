@@ -2,7 +2,7 @@ import React from 'react'
 import ReactPlayer from 'react-player'
 import Video from "../video/video1.mp4"
 import VideoPlayer from 'react-video-js-player'
-import image from '../eventimages/aboutusimage.jpg'
+import image from '../eventimages/aboutus.gif'
 export default function Aboutus() {
     const VideoSrc = Video;
 
@@ -12,7 +12,7 @@ export default function Aboutus() {
             <div className="specialdiv" />
             <div>
            
-            <img className="img" style={{width:"400px",height:"270px",marginLeft:"10px"}} src={image}></img>
+            <img className="img" style={{width:"500px",height:"500px",marginLeft:"10px"}} src={image}></img>
             <p className="p">Hack Club is a nonprofit network of high school coding clubs and makers around the world.Hack Club is a nonprofit network of high school coding clubs and makers around the world.Hack Club is a nonprofit network of high school coding clubs and makers around the world.Hack Club is a nonprofit network of high school coding clubs and makers around the world.Hack Club is a nonprofit network of high school coding clubs and makers around the world.Hack Club is a nonprofit network of high school coding clubs and makers around the world.Hack Club is a nonprofit network of high school coding clubs and makers around the world.</p>
           </div>
         </div>

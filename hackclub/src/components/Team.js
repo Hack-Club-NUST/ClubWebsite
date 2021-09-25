@@ -79,7 +79,7 @@ export default function Team() {
                             <div className="team-content">
                                 <h3 className="title">Alina Shoaib Qureshi</h3>
                                 <span className="post">General Secretary</span>
-                                <span className="post" style={{fontSize:"11px"}}>aqureshi.bese18seecs@seecs.edu.pk</span>
+                                
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@ export default function Team() {
                             <div className="team-content ">
                                 <h3 className="title">Muhammad Asim Khaskheli</h3>
                                 <span className="post">President</span>
-                                <span className="post" style={{fontSize:"11px"}}>mkhaskheli.bese18seecs@seecs.edu.pk</span>
+                              
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@ export default function Team() {
                             <div className="team-content">
                                 <h3 className="title">Alina Shoaib Qureshi</h3>
                                 <span className="post">General Secretary</span>
-                                <span className="post" style={{fontSize:"11px"}}>aqureshi.bese18seecs@seecs.edu.pk</span>
+                               
                             </div>
                         </div>
                     </div>
@@ -133,7 +133,7 @@ export default function Team() {
                             <div className="team-content">
                                 <h3 className="title">Ali Tariq</h3>
                                 <span className="post">Press Secretary</span>
-                                <span className="post" style={{fontSize:"11px"}}>atariq.bese18seecs@seecs.edu.pk</span>
+                               
                             </div>
                         </div>
                     </div>
@@ -151,7 +151,7 @@ export default function Team() {
                             <div className="team-content">
                                 <h3 className="title">Abdul Rafay Ahmad</h3>
                                 <span className="post">Joint Secretary to PS</span>
-                                <span className="post" style={{fontSize:"11px"}}>aahmad.bese18seecs@seecs.edu.pk</span>
+                              
                             </div>
                         </div>
                     </div>
@@ -168,7 +168,7 @@ export default function Team() {
                             <div className="team-content">
                                 <h3 className="title">Hassaan Ali Mehmood</h3>
                                 <span className="post">Joint Secretary (Web & IT ) </span>
-                                <span className="post" style={{fontSize:"11px"}}>hmehmood.bese18seecs@seecs.edu.pk</span>
+                                
                             </div>
                         </div>
                     </div>
@@ -186,7 +186,7 @@ export default function Team() {
                             <div className="team-content">
                                 <h3 className="title">Fahad Zaheer</h3>
                                 <span className="post">Treasurer</span>
-                                <span className="post" style={{fontSize:"11px"}}>fzaheer.bscs19seecs@seecs.edu.pk</span>
+                                
                             </div>
                         </div>
                     </div>

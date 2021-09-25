@@ -3,7 +3,7 @@ import event1 from "../eventimages/event1.PNG"
 export default function Event() {
     return (
         <div id="event" >
-            <div className="eventresponsive-div">
+            <div  className="eventresponsive-div">
          <div className="eventcontainer">
                 <h1 className="eventheading">Events</h1>
                 <div />

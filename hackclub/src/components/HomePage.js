@@ -18,7 +18,7 @@ export default function HomePage() {
 
 
 
-                <div className="row showcasediv">
+                <div className="row showcasediv" style={{marginRight:'0px'}}>
 
 
                 <div className="col-md-6 textcasediv"> 
