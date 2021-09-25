@@ -120,10 +120,8 @@ body, html {
 }
 
 .homediv {
-    background-image: url(https://gifimage.net/wp-content/uploads/2017/09/black-background-gif-11.gif);
+   
     margin-top: 250px;
-    /* background-attachment: fixed; */
-    /* position: relative; */
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
@@ -2711,25 +2709,26 @@ body, html {
 /* Previouis css */
 
 .homecontainer {
-    background: #f3f3f3;
+    background: white;
     margin-top: -340px;
     width: 100%;
     height: 700px
 }
 
 .showcasediv {
-    background-image: url('/src/eventimages/freeimg2.jpg');
+    background-image: url('/src/eventimages/home.gif');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 90%;
     width: 100%;
     float: right;
+    margin-left: 50px !important;
     margin-top: 300px !important;
     margin-bottom: -70px;
-    height: 790px;
+    height: 700px;
 }
 
 .homecontainer h2 {
-    color: #fff;
+    color: black;
     position: absolute;
     top: 48%;
     font-size: 64px;
@@ -2737,7 +2736,7 @@ body, html {
 }
 
 .homecontainer h3 {
-    color: #fff;
+    color: black;
     position: absolute;
     top: 70%;
     font-size: 36px;
@@ -2746,7 +2745,7 @@ body, html {
 
 .homecontainer h5 {
     font-weight: 500;
-    color: #fff;
+    color: black;
     text-align: center;
     font-size: 1.9vw;
 }

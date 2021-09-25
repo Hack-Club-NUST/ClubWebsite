@@ -8,13 +8,6 @@ export default function HomePage() {
     return (
         <div id="home">
             <div className="homecontainer">
-                {/* <div className="homediv">
-                    <div className="homemaindiv">
-                        <h3 className="homemainheading">Welcome to Hack Club Nust</h3>
-                        <h5 className="homemaintagline">Coding Workshops,Seminars,Bootcamps and Interactive Problem Solving Activites</h5>
-                        <a href="#" className="homelearnmorebutton">Learn More</a>
-                    </div>
-                </div> */}
 
 
 
@@ -24,7 +17,7 @@ export default function HomePage() {
                 <div className="col-md-6 textcasediv"> 
                 
                 
-                <h2 className="text-center"> Hack 
+                <h2 className="text-center" > Hack 
                    Club Nust !</h2>
                 
 
