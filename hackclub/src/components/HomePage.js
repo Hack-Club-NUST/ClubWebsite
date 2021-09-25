@@ -9,30 +9,22 @@ export default function HomePage() {
         <div id="home">
             <div className="homecontainer">
 
-
-
                 <div className="row showcasediv" style={{marginRight:'0px'}}>
+                    <div className="col-md-6 textcasediv"> 
+                        <h2 className="text-center" > Hack 
+                            Club Nust !</h2>
+                    <div className="taglinediv">
+                       <h5>We are here  to Connect  the Coders <br/> with  Planet Earth</h5>
+                        <br/>
+                        <div></div>
+                        <button className=" ">Learn More</button>
 
-
-                <div className="col-md-6 textcasediv"> 
-                
-                
-                <h2 className="text-center" > Hack 
-                   Club Nust !</h2>
-                
-
-                <div className="taglinediv">
-                <h5>We are here  to Connect  the Coders <br/> with  Planet Earth</h5>
-<br/>
-<div></div>
-                <button className=" ">Learn More</button>
-
-          
-                </div>
+                    </div>
+              
 
                 
                 
-                </div>
+                 </div>
                 
 
                 </div>

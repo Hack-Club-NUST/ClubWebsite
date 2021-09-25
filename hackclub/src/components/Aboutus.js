@@ -1,10 +1,6 @@
 import React from 'react'
-import ReactPlayer from 'react-player'
-import Video from "../video/video1.mp4"
-import VideoPlayer from 'react-video-js-player'
 import image from '../eventimages/aboutus.gif'
 export default function Aboutus() {
-    const VideoSrc = Video;
 
     return (
         <div id="aboutus">

@@ -347,14 +347,10 @@ body, html {
 }
 
 .eventheading {
-    /* color: #990F02; */
-    /* color: black; */
+    
     text-align: center;
     font-size: 40px;
-    /* font-family: Century Gothic; */
-    /* font-weight: bolder; */
-    /* letter-spacing: 3px; */
-    /* text-transform: uppercase; */
+   
 }
 
 .event-number {
@@ -454,237 +450,7 @@ body, html {
     text-decoration: none;
 }
 
-/* @media screen and (min-width: 900px) and (max-width: 1193px) {
-    .event-center h2 {
-        margin-left: -95px;
-        font-size: 35px;
-        margin-top: 0px;
-    }
-    .event-image {
-        width: 320px;
-        height: 320px;
-    }
-    .event-center h3 {
-        font-size: 25px;
-        margin-left: -95px;
-    }
-    .event-center p {
-        color: rgb(51, 51, 51);
-        transition-delay: 3ms;
-        margin-right: 153px;
-        margin-left: -95px;
-        font-size: 20px;
-        margin-top: 20px;
-    }
-    .event-center a input {
-        margin-right: 153px;
-        float: right;
-        margin-top: 20px;
-        background-color: #ec3750;
-        color: #fff;
-        padding: 10px;
-        padding-left: 20px;
-        padding-right: 20px;
-        font-size: 16px;
-        font-weight: 500;
-        border-radius: 0px;
-        border: none;
-        -webkit-appearance: none;
-        appearance: none;
-        text-decoration: none;
-    }
-}
 
-@media screen and (min-width: 820px) and (max-width: 899px) {
-    .event-center h2 {
-        margin-left: -170px;
-        text-align: center;
-        margin-top: -10px;
-        font-size: 35px;
-    }
-    .event-image {
-        width: 250px;
-        height: 250px;
-        margin-left: -30px;
-    }
-    .event-center h3 {
-        margin-left: -170px;
-        text-align: center;
-        font-size: 25px;
-    }
-    .event-center p {
-        color: rgb(51, 51, 51);
-        transition-delay: 3ms;
-        margin-left: -170px;
-        font-size: 20px;
-        margin-top: 20px;
-        text-align: center;
-    }
-    .event-center a input {
-        margin-right: 35px;
-        float: right;
-        margin-top: 20px;
-        background-color: #ec3750;
-        color: #fff;
-        padding: 10px;
-        padding-left: 20px;
-        padding-right: 20px;
-        font-size: 16px;
-        font-weight: 500;
-        border-radius: 0px;
-        border: none;
-        -webkit-appearance: none;
-        appearance: none;
-        text-decoration: none;
-    }
-}
-
-@media screen and (min-width: 725px) and (max-width: 820px) {
-    .event-center h2 {
-        margin-left: -70px;
-        text-align: center;
-        margin-top: -10px;
-        font-size: 30px;
-    }
-    .event-image {
-        width: 250px;
-        height: 250px;
-        margin-left: -30px;
-    }
-    .event-center h3 {
-        margin-left: -70px;
-        text-align: center;
-        font-size: 20px;
-    }
-    .event-center p {
-        color: rgb(51, 51, 51);
-        transition-delay: 3ms;
-        margin-left: -70px;
-        text-align: center;
-        font-size: 17px;
-        margin-top: 20px;
-    }
-    .event-center a input {
-        margin-right: 5px;
-        float: right;
-        margin-top: 20px;
-        background-color: #ec3750;
-        color: #fff;
-        padding: 10px;
-        padding-left: 20px;
-        padding-right: 20px;
-        font-size: 16px;
-        font-weight: 500;
-        border-radius: 0px;
-        border: none;
-        -webkit-appearance: none;
-        appearance: none;
-        text-decoration: none;
-    }
-}
-
-@media screen and (min-width: 600px) and (max-width: 724px) {
-    .event-center h2 {
-        text-align: center;
-        font-size: 30px;
-        margin: auto;
-    }
-    .event-image {
-        margin: auto;
-    }
-    .event-center h3 {
-        font-size: 25px;
-        text-align: center;
-        margin: auto;
-        padding-top: 7px;
-    }
-    .event-center p {
-        color: rgb(51, 51, 51);
-        transition-delay: 3ms;
-        font-size: 20px;
-        text-align: center;
-        margin: auto;
-        padding-top: 7px;
-    }
-    .event-center a input {
-        margin-top: 20px;
-        background-color: #ec3750;
-        color: #fff;
-        padding: 13px;
-        padding-left: 20px;
-        padding-right: 20px;
-        font-size: 16px;
-        font-weight: 500;
-        border-radius: 0px;
-        border: none;
-        -webkit-appearance: none;
-        appearance: none;
-        text-decoration: none;
-        margin-right: 10px;
-    }
-    .event-center a {
-        position: absolute;
-        left: 48%;
-    }
-    .event-space {
-        margin-bottom: 90px;
-    }
-}
-
-@media screen and (max-width: 599px) {
-    .event-center h2 {
-        font-size: 30px;
-        text-align: center;
-        margin: auto;
-        padding-top: 7px;
-    }
-    .event-center h3 {
-        font-size: 20px;
-        margin: auto;
-        text-align: center;
-        padding-top: 7px;
-    }
-    .event-image {
-        margin: auto;
-    }
-    .event-center p {
-        color: rgb(51, 51, 51);
-        transition-delay: 3ms;
-        font-size: 20px;
-        text-align: center;
-        margin: auto;
-        padding-top: 7px;
-    }
-    .event-center a input {
-        margin-top: 20px;
-        background-color: #ec3750;
-        color: #fff;
-        padding: 13px;
-        padding-left: 20px;
-        padding-right: 20px;
-        text-align: center;
-        font-size: 16px;
-        font-weight: 500;
-        border-radius: 0px;
-        border: none;
-        -webkit-appearance: none;
-        appearance: none;
-        text-decoration: none;
-    }
-    .event-center a {
-        position: absolute;
-        left: 48%;
-    }
-    .event-space {
-        margin-top: 70px;
-        margin-bottom: 90px;
-    }
-    .event-number {
-        margin-left: 220px;
-    }
-} */
-
-/* Haris Css */
 
 .homecontainer {
     height: 100%;
@@ -787,10 +553,7 @@ body, html {
     .our-team .pic {
         height: auto !important;
     }
-    /* .treasimage > img{
-        height: 300px !important;
-
-    } */
+   
     .site-footer {
         text-align: center;
     }
@@ -817,10 +580,7 @@ body, html {
         font-size: 3.5vw;
     }
     /* Css for home page event  */
-    /* .Event{
-       
-         width: 120vw; 
-    }*/
+   
     .eventcontainer {
         margin-bottom: 0px !important;
     }
@@ -918,6 +678,7 @@ body, html {
     .home {
         height: 100vh !important;
     }
+
     /* Css for home page event  */
     .homecontainer {
         /* min-width: 130vw ; */
@@ -1138,21 +899,17 @@ body, html {
     .home {
         height: 100vh !important;
     }
+
     /* Css for home page event  */
     .homecontainer {
-        /* min-width: 130vw ; */
+        
         margin-top: -350px !important;
         height: auto !important;
     }
     .navbar-brand {
         margin-left: -50%;
     }
-    /* .textcasediv h2 {
-        position: absolute;
-        top: 60vh !important;
-        left: 6vw !important;
-        font-size: 64px !important;
-    } */
+   
     .taglinediv {
         position: absolute;
         top: 58vh !important;
@@ -1255,13 +1012,11 @@ body, html {
     }
     /* Css for home page event  */
     .homecontainer {
-        /* min-width: 130vw ; */
+     
         position: relative;
         max-height: 100vh;
     }
-    /* .homemaindiv{
-           position:relative;
-        } */
+   
     .homediv {
         margin-top: 470px;
     }
@@ -1980,40 +1735,14 @@ body, html {
         max-height: 120vh;
         /* margin-bottom: 10vh;  */
     }
-    /* .homemaindiv{
-            height: 100% !important;
-        }
-         */
+   
     /* Css for home page event  */
-    /*.Event{
-
-           
-       
-             height: 100vh !important; 
-             width: 120vw; 
-        }*/
+    
     .eventcontainer {
         margin-bottom: 0px !important;
     }
-    /*     
-        .event-image{
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width:50vw !important;
-            text-align: center;
-            margin : 0 auto !important;
-            height: 50vh;
-        } */
-    /* .event-center{
-            width: 100%;
-            margin-top: 10px;
-       
-          
-            display: block !important;
-        
-           
-        } */
+    
+    
     .event-center {
         margin: 0 auto !important;
     }
@@ -2079,12 +1808,7 @@ body, html {
             margin-top: 6em !important;
         }
     }
-    /* @media screen and (min-height: 814px) {
-        .teams-special-margin {
-            margin-top: 50em !important;
-            
-        }
-    } */
+   
 }
 
 @media screen and (min-width: 1450px) and (max-width: 1650px) {
@@ -2322,45 +2046,18 @@ body, html {
 @media screen and (min-width: 1801px) and (max-width: 2200px) {
     /* Css for home page event  */
     .homecontainer {
-        /* min-width: 130vw ; */
+       
         position: relative;
         max-height: 120vh;
-        /* margin-bottom: 10vh;  */
-    }
-    /* .homemaindiv{
-            height: 100% !important;
-        }
-         */
-    /* Css for home page event  */
-    /*.Event{
-
-           
        
-            height: 100vh !important; 
-             width: 120vw; 
-        }*/
+    }
+    
+    /* Css for home page event  */
+   
     .eventcontainer {
         margin-bottom: 0px !important;
     }
-    /*     
-        .event-image{
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width:50vw !important;
-            text-align: center;
-            margin : 0 auto !important;
-            height: 50vh;
-        } */
-    /* .event-center{
-            width: 100%;
-            margin-top: 10px;
-       
-          
-            display: block !important;
-        
-           
-        } */
+  
     .event-center {
         margin: 0 auto !important;
     }
@@ -2806,7 +2503,7 @@ body, html {
 
 /*event*/
 
-/* Haris Css */
+
 
 .homecontainer {
     height: 1000px;
