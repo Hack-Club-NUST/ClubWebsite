@@ -1,5 +1,6 @@
 body {
-    font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    /*font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;*/
+    font-family: 'Poppins', sans-serif !important;
     line-height: 1.5 !important;
 }
 
@@ -100,7 +101,8 @@ body, html {
     background: black;
     margin-top: -340px;
     width: 100%;
-    height: 700px
+    height: 700px;
+   
 }
 
 .homediv {
@@ -2934,22 +2936,11 @@ body, html {
 }
 
 .img {
-    animation: leftoright 4s linear;
-    animation-iteration-count: 100;
-    margin-top: 30px !important;
+   
+    margin-top: -10px !important;
 }
 
-@keyframes leftoright {
-    0% {
-        margin-left: -20%;
-    }
-    50% {
-        margin-left: 5%;
-    }
-    100% {
-        margin-left: 2%;
-    }
-}
+
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     .aboutusheading {
@@ -2988,36 +2979,35 @@ body, html {
 }
 
 .p {
+    justify-content: center;
+   
+    margin-right: 10px;
     margin-left: 500px;
-    margin-top: -230px !important;
+    margin-top: -370px !important;
     font-size: 1rem !important;
 }
 
 @media screen and (min-width: 942px) and (max-width: 1078px) {
     .p {
-        margin-top: -265px !important;
+        margin-top: -385px !important;
     }
 }
 
 @media screen and (min-width: 869px) and (max-width: 942px) {
     .p {
-        margin-top: -280px !important;
+        margin-top: -410px !important;
     }
     .img {
-        margin-top: 50px !important;
+        margin-top: 0px !important;
     }
 }
 
 @media screen and (min-width: 816px) and (max-width: 869px) {
     .p {
-        margin-top: -280px !important;
+        margin-top: -410px !important;
         margin-left: 450px;
     }
-    .img {
-        margin-top: 50px !important;
-        width: 350px !important;
-        height: 250px !important;
-    }
+   
 }
 
 @media screen and (max-width: 816px) {
@@ -3026,10 +3016,11 @@ body, html {
         margin-left: 10px !important;
     }
     .img {
-        margin-top: 50px !important;
-        height: 60% !important;
-        width: 100% !important;
-        margin-left: auto !important;
+        margin-top: -10px !important;
+        height: 50% !important;
+        width: 90% !important;
+        margin-left: 40px !important;
+        margin-bottom: -180px !important;
     }
 }
 
