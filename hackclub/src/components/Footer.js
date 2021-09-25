@@ -18,26 +18,15 @@ export default function Footer() {
             <p className="text-justify w-75">HackClub-Nust.com Hack Club is a nonprofit network of high school coding clubs and makers around the world.Our main goal is to connect with developers around the world and drive towards better solutions </p>
           </div>
 
-          <div className="col-xs-12 col-md-3">
-            <h6>Events</h6>
-            <ul className="footer-links">
-              <li><a href="#">Cli Tutorial</a></li>
-              <li><a href="#">Career Pathways</a></li>
-              <li><a href="#">Hack The Hackathons</a></li>
-              <li><a href="#">Competitive Programming</a></li>
-              <li><a href="#">Web Development </a></li>
-  
-            </ul>
-          </div>
+         
 
           <div className="col-xs-6 col-md-3">
             <h6>Quick Links</h6>
             <ul className="footer-links">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Contribute</a></li>
-              <li><a href="#">Privacy Policy</a></li>
-              <li><a href="#">Sitemap</a></li>
+              <li><a href="#aboutus">About Us</a></li>
+              <li><a href="#contact-us-heading">Contact Us</a></li>
+              <li><a href="#Event">Events</a></li>
+              
             </ul>
           </div>
         </div>

@@ -2681,16 +2681,12 @@ body, html {
 }
 
 .facebook {
-    background-image: url(./eventimages/socialmedia/image-1.png);
+    background-image: url(./eventimages/socialmedia/fb.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-.twitter {
-    background-image: url(./eventimages/socialmedia/image-2.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
+
 
 .youtube {
     background-image: url(./eventimages/socialmedia/youtube.png);
@@ -2701,13 +2697,13 @@ body, html {
 }
 
 .linkedin {
-    background-image: url(./eventimages/socialmedia/image-3.png);
+    background-image: url(./eventimages/socialmedia/link.jpg);
     background-repeat: no-repeat;
     background-size: 120%;
 }
 
 .instagram {
-    background-image: url(./eventimages/socialmedia/instagram.png);
+    background-image: url(./eventimages/socialmedia/insta.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }

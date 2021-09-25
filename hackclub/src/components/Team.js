@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import event1 from "../eventimages/socialmedia/image-1.png"
+
 import "./team.css";
 import presimage from '../eventimages/teamimages/president.jpg'
 //import gensecimage from '../eventimages/teamimages/'
