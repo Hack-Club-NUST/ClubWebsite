@@ -53,7 +53,7 @@ export default function Event() {
             <br/><br/>
             <span className="cardcontent">
                 <span className="float-left">  <h5 className="card-date">12 Aug,2021</h5></span >
-                <span className="float-right">Terminal</span>
+                <span className="float-right">No Terminal</span>
             </span>
                 <h5 class="card-title"> Building Cli Applications in Node.Js</h5>
                 <p class="card-text">   Hack Club NUST brings an amazing opportunity to learn everything you need to know about building CLI(Command Line Interface) applications through the power of Node.js!
