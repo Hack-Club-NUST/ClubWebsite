@@ -9,8 +9,9 @@ export default function ContactUs() {
     return (
         <div id="contact-us" className="container">
 
-          <h2 className="text-center contactusheading" id="contact-us-heading">Contact Us</h2>
+          <h2 className="contactusheading" id="contact-us-heading">Contact Us</h2>
                 <div className="specialdiv"/>
+               
 
                 <div className="container">
                    <div className="row d-flex offset-md-1 justify-content-center">
