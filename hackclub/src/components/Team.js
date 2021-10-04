@@ -56,7 +56,7 @@ export default function Team() {
         <div id="teams-section" className="container teams-special-margin">
 
             <h2 className="text-center ourteamheading" id="team">OUR TEAM</h2>
-            <div className="specialdiv" />
+            <div className="specialdiv" style={{}} />
             <h3 className="text-center taglineteam">
                 <span className="highlighword1">Together</span>
                 <span className="highlighword2">Everyone </span>

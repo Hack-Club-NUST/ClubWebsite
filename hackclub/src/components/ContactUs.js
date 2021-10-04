@@ -10,7 +10,8 @@ export default function ContactUs() {
         <div id="contact-us" className="container">
 
           <h2 className="contactusheading" id="contact-us-heading">Contact Us</h2>
-                <div className="specialdiv"/>
+              
+                <div className="specialdiv" />
                
 
                 <div className="">

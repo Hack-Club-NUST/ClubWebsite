@@ -8,6 +8,13 @@
     font-weight: 700 !important;
 }
 
+.ourteamheading .specialdiv {
+    width: 24rem;
+    height: 5px;
+    background: black;
+    margin: 1rem auto;
+}
+
 .Teamfacebook {
     width: 20px;
     height: 20px;
@@ -55,7 +62,8 @@
 
 @media screen and (min-width: 320px) and (max-width: 480px) {
     .ourteamheading {
-        font-size: 1.75em !important;
+        margin-top: 5% !important;
+        font-size: 1.25em !important;
         text-align: center;
         display: flex;
         width: 100%;
