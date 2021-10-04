@@ -14,9 +14,9 @@ export default function ContactUs() {
                
 
                 <div className="">
-                   <div className="row d-flex offset-md-1 justify-content-center">
+                   <div className="row d-flex  justify-content-center">
         
-                      <div className="col-xs-12  d-flex  justify-content-center col-sm-12 col-md-6 contact-us-left-container">
+                      <div className="col-xs-12  d-flex  justify-content-center col-sm-12 col-md-6 contact-us-leftmost-container">
        
                           <div class="card" style={{width:'22rem'}}>
                                 <div class="card-body">
@@ -46,7 +46,7 @@ export default function ContactUs() {
 
                           </div>
 
-                        <div className="col-6  d-md-block contact-us-right-container">
+                        <div className="col-xs-12  d-flex  justify-content-center col-sm-12 col-md-6 contact-us-leftmost-container">
 
                           <div class="card" style={{width:'22rem'}}>
                              <div class="card-body">

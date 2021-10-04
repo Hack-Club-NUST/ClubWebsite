@@ -507,7 +507,7 @@ body, html {
         position: absolute;
         top: 14% !important;
         left: 6vw !important;
-        font-size:1em !important;
+        font-size:1.20em !important;
     }
     .taglinediv {
         position: absolute;
@@ -2304,7 +2304,7 @@ body, html {
     margin-bottom: 45px;
     box-shadow: grey;
     margin-top: 13vw;
-    margin-left: 50px !important;
+
 }
 
 /* Git commit on 04 oct Changed contact us section id of teams to teams section  */
@@ -2316,12 +2316,12 @@ body, html {
 
 }
 
-.contact-us-left-container {
+.contact-us-leftmost-container {
     text-align: center;
     border-radius: 10px 0px 0px 10px;
 }
 
-.contact-us-right-container {
+.contact-us-rightmost-container {
     border-radius: 0px 10px 10px 0px;
 }
 
@@ -2430,7 +2430,7 @@ body, html {
     margin: 1rem auto;
 }
 
-@media screen and (max-width:1090px) {
+/* @media screen and (max-width:1090px) {
     #contact-us{
         margin-left: 30px !important;
     }
@@ -2461,8 +2461,8 @@ body, html {
 }
     
     
-}
-@media screen and (max-width:748px) {
+} */
+/* @media screen and (max-width:748px) {
     #contact-us{
         margin-left: 0px !important;
     }
@@ -2484,8 +2484,8 @@ body, html {
 
     
     
-}
-@media screen and (max-width:666px) {
+} */
+/* @media screen and (max-width:666px) {
     .contact-us-left-container{
         width:80% !important;
         margin-left: 270px !important;
@@ -2495,9 +2495,9 @@ body, html {
     .contact-us-right-container{
         width:60% !important;
         margin-left: auto;
-    }}
+    }} */
 
-@media screen and (max-width:586px) {
+/* @media screen and (max-width:586px) {
         .contact-us-left-container{
             width:80% !important;
             margin-left: 70px !important;
@@ -2516,9 +2516,9 @@ body, html {
             }
             .contact-us-right-container{
                 margin-right: -180px !important;
-            }}
+            }} */
 
- @media screen and (max-width:461px) {
+ /* @media screen and (max-width:461px) {
     .contact-us-left-container{
         margin-left: 120px !important;
        
@@ -2541,74 +2541,87 @@ body, html {
     }}     
                    
                 
-
+ */
     
 @media screen  and (max-width:995px){
     .contactusheading{
-       margin-left: 96px !important;
+        margin-left: 0;
+        margin-right:0 ;
     }
     #contact-us .specialdiv{
-        margin-left: 250px;
+        margin : 5% auto;
     }
     
 }
 @media screen  and (max-width:905px){
     .contactusheading{
-       margin-left: 50px !important;
+        margin-left: 0;
+        margin-right:0 ;
     }
     #contact-us .specialdiv{
-        margin-left: 200px;
+        margin : 0 auto;
     }
     
 }
 @media screen  and (max-width:768px){
     .contactusheading{
-       margin-left: 130px !important;
+        margin-left: 0;
+        margin-right:0 ;
     }
 }
 @media screen  and (max-width:760px){
     .contactusheading{
-       margin-left: 100px !important;
+        margin-left: 0;
+        margin-right:0 ;
     }
     #contact-us .specialdiv{
-        margin-left: 170px;
+        margin : 5% auto;
     }
 }
 @media screen  and (max-width:707px){
     .contactusheading{
-       margin-left: 170px !important;
+        margin-left: 0;
+        margin-right:0 ;
     }
     #contact-us .specialdiv{
-        margin-left: 240px;
+       margin : 5% auto;
     }
 }
 @media screen  and (max-width:667px){
+
+    /* .eventscontent h2 {
+        border-bottom: none !important;
+    }
    
     #contact-us .specialdiv{
       display: none;
     }
     #aboutus .specialdiv{
         display: none;
-    }
+    } */
     .aboutusheading{
         margin-top:20px !important
     }
 }
 @media screen  and (max-width:650px){
     .contactusheading{
-       margin-left: 140px !important;
+        margin-left: 0;
+        margin-right:0 ;
     }
    
 }
 @media screen  and (max-width:560px){
     .contactusheading{
-       margin-left: 110px !important;
+        margin-left: 0;
+        margin-right:0 ;
     }
    
 }
 @media screen  and (max-width:480px){
     .contactusheading{
      text-align: center;
+     margin-left: 0;
+     margin-right:0 ;
     }
    
 }
@@ -2906,7 +2919,7 @@ body, html {
     display: flex;
     align-content: center;
     font-weight: 700 !important;
-    font-size: 40px !important;
+    font-size: 1.75em !important;
     line-height: 46px;
     color: #000;
     text-transform: uppercase;
