@@ -13,7 +13,7 @@ export default function ContactUs() {
                 <div className="specialdiv"/>
                
 
-                <div className="container">
+                <div className="">
                    <div className="row d-flex offset-md-1 justify-content-center">
         
                       <div className="col-xs-12  d-flex  justify-content-center col-sm-12 col-md-6 contact-us-left-container">

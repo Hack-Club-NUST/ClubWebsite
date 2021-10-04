@@ -2307,6 +2307,15 @@ body, html {
     margin-left: 50px !important;
 }
 
+/* Git commit on 04 oct Changed contact us section id of teams to teams section  */
+
+#teams-section {
+    margin-bottom: 55px;
+    box-shadow: grey;
+    margin-top: 13vw;
+
+}
+
 .contact-us-left-container {
     text-align: center;
     border-radius: 10px 0px 0px 10px;

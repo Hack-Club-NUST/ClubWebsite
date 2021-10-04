@@ -53,7 +53,7 @@ export default function Team() {
     }
 
     return (
-        <div id="contact-us" className="container teams-special-margin">
+        <div id="teams-section" className="container teams-special-margin">
 
             <h2 className="text-center ourteamheading" id="team">OUR TEAM</h2>
             <div className="specialdiv" />
