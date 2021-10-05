@@ -558,7 +558,7 @@ body, html {
         height: 400px !important;
     }
     .eventscontent-column h2 {
-        font-size: 1.25em !important;
+        font-size:1.25em !important;
         justify-content: center;
         width: 100%;
         padding-bottom: 5px !important;
@@ -764,7 +764,7 @@ body, html {
     }
     .eventscontent-column h2 {
         font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-        font-size: 1.75em !important;
+        font-size: 1.75em;
         justify-content: center;
         width: 100%;
         padding-bottom: 5px !important;
@@ -2943,7 +2943,7 @@ body, html {
     display: flex;
     align-content: center;
     font-weight: 700 !important;
-    font-size: 1.75em !important;
+    font-size: 1.75em ;
     line-height: 46px;
     color: #000;
     text-transform: uppercase;
@@ -3025,7 +3025,7 @@ body, html {
 
 @media screen and (min-width: 320px) and (max-width: 480px) {
     .contactusheading{
-        font-size: 1.75em !important;
+        font-size: 1.25em !important;
         text-align: center;
         display: flex;
         width: 100%;
@@ -3034,7 +3034,7 @@ body, html {
 
     }
     .aboutusheading {
-        font-size: 1.75em !important;
+        font-size: 1.25em !important;
         text-align: center;
         display: flex;
         width: 100%;
