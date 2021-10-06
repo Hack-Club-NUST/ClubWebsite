@@ -312,7 +312,7 @@ body, html {
 
 @media screen and (max-width: 768px) {
     .homemainheading {
-        font-family: sans-serif;
+       
         color: #f3f3f3;
         font-size: 40px;
         position: absolute;
@@ -322,7 +322,7 @@ body, html {
         text-align: center;
     }
     .homemaintagline {
-        font-family: sans-serif;
+       
         color: #f3f3f3;
         font-size: 18px;
         position: absolute;
@@ -763,7 +763,7 @@ body, html {
         height: 400px !important;
     }
     .eventscontent-column h2 {
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+       
         font-size: 1.75em;
         justify-content: center;
         width: 100%;
@@ -979,7 +979,7 @@ body, html {
         height: 400px !important;
     }
     .eventscontent-column h2 {
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+      
         font-weight: 500 !important;
         font-size: 2em !important;
         justify-content: center;
@@ -1235,7 +1235,6 @@ body, html {
         padding-top: 2em !important;
         display: flex !important;
         align-items: center;
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
         font-weight: 500 !important;
         font-size: 3.2vw !important;
         justify-content: center;
@@ -1494,7 +1493,6 @@ body, html {
         padding-top: 6em !important;
         display: flex !important;
         align-items: center;
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
         font-weight: 500 !important;
         font-size: 2em !important;
         justify-content: center;
@@ -1724,7 +1722,6 @@ body, html {
         padding-top: 6em !important;
         display: flex !important;
         align-items: center;
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
         font-weight: 500 !important;
         font-size: 2em !important;
         justify-content: center;
@@ -1872,7 +1869,7 @@ body, html {
         margin-left: -50%;
     }
     .textcasediv h2 {
-        font-family: 'Poppins', sans-serif !important; 
+        
         position: absolute;
         top: 80vh !important;
         color: #000 !important;
@@ -1933,7 +1930,6 @@ body, html {
         padding-top: 6em !important;
         display: flex !important;
         align-items: center;
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
         font-weight: 500 !important;
         font-size: 2em !important;
         justify-content: center;
@@ -2049,7 +2045,6 @@ body, html {
         padding-top: 6em !important;
         display: flex !important;
         align-items: center;
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
         font-weight: 500 !important;
         font-size: 2em !important;
         justify-content: center;
@@ -2233,7 +2228,6 @@ body, html {
         padding-top: 6em !important;
         display: flex !important;
         align-items: center;
-        font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
         font-weight: 500 !important;
         font-size: 2em !important;
         justify-content: center;
@@ -2947,7 +2941,6 @@ body, html {
     line-height: 46px;
     color: #000;
     text-transform: uppercase;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin-bottom: 20px;
 }
 
@@ -2972,7 +2965,6 @@ body, html {
     margin: 0 auto;
     text-align: center;
     width: 100%;
-    font-family: Arial, Helvetica, sans-serif;
     text-align: justify !important;
 }
 
@@ -3058,22 +3050,21 @@ body, html {
 
 .p {
     justify-content: center;
-   
-    margin-right: 10px;
+   margin-right: 10px;
     margin-left: 500px;
-    margin-top: -370px !important;
+    margin-top: -320px !important;
     font-size: 1rem !important;
 }
 
 @media screen and (min-width: 942px) and (max-width: 1078px) {
     .p {
-        margin-top: -385px !important;
+        margin-top: -355px !important;
     }
 }
 
 @media screen and (min-width: 869px) and (max-width: 942px) {
     .p {
-        margin-top: -410px !important;
+        margin-top: -380px !important;
     }
     .img {
         margin-top: 0px !important;
@@ -3082,7 +3073,7 @@ body, html {
 
 @media screen and (min-width: 816px) and (max-width: 869px) {
     .p {
-        margin-top: -410px !important;
+        margin-top: -380px !important;
         margin-left: 450px;
     }
    
@@ -3090,7 +3081,7 @@ body, html {
 
 @media screen and (max-width: 816px) {
     .p {
-        margin-top: 100px !important;
+        margin-top: 80px !important;
         margin-left: 10px !important;
     }
     .img {
