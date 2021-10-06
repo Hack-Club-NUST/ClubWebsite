@@ -31,8 +31,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./node_modules/.bin/netlify-lambda serve src",
-    "build": "react-scripts build"
-  },
+    "build": "CI= react-scripts build"
+ },
   "eslintConfig": {
     "extends": [
       "react-app",
