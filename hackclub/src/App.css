@@ -531,7 +531,7 @@ body, html {
     }
     .showcasediv {
         height: 40vh !important;
-        margin-bottom: 0 !important;
+        margin-bottom: -60px !important;
     }
 
     .showcasingcolumndiv {
@@ -2607,16 +2607,8 @@ body, html {
 }
 @media screen  and (max-width:667px){
 
-    /* .eventscontent h2 {
-        border-bottom: none !important;
-    }
-   
-    #contact-us .specialdiv{
-      display: none;
-    }
-    #aboutus .specialdiv{
-        display: none;
-    } */
+    
+
     .aboutusheading{
         margin-top:20px !important
     }
@@ -2685,7 +2677,7 @@ body, html {
     background-image: url('/src/eventimages/home.gif');
     background-repeat: no-repeat;
     background-size: 100%;
-    /* width: 100%; */
+    width: 100%;
     float: right;
     margin-left: 50px ;
     margin-top: 300px ;
@@ -3048,6 +3040,8 @@ body, html {
    
 }
 
+
+
 .p {
     justify-content: center;
    margin-right: 10px;
@@ -3089,7 +3083,7 @@ body, html {
         height: 50% !important;
         width: 90% !important;
         margin-left: 40px !important;
-        margin-bottom: -180px !important;
+        margin-bottom: -150px !important;
     }
 }
 /* final responsive addition by HURERA */
