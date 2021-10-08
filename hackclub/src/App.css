@@ -2677,7 +2677,7 @@ body, html {
     background-image: url('/src/eventimages/home.gif');
     background-repeat: no-repeat;
     background-size: 100%;
-    width: 100%;
+
     float: right;
     margin-left: 50px ;
     margin-top: 300px ;
@@ -2693,8 +2693,8 @@ body, html {
     float: right;
     margin-left: 50px !important;
     margin-top: 170px !important;
-    margin-bottom: -70px;
-    height: 700px;
+    /* margin-bottom: -70px;
+    height: 700px; */
    
 }
 
