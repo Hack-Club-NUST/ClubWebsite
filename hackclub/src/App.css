@@ -6,7 +6,7 @@ body {
 .contactusbutton {
      
   
-    background-color: #ec3750;
+    background-color: #EC3B4F;
     color: #fff;
     margin-top: 5%;
     padding: 5%;
@@ -588,7 +588,7 @@ body, html {
         width: 100%;
     }
     .events-card-home .card-text {
-        font-size: 14px !important;
+        font-size: 12px !important;
     }
     .ourteamheading {
         font-size: 5vw !important;
@@ -802,7 +802,7 @@ body, html {
     }
     .events-card-home .card-text {
         text-align: justify !important;
-        font-size: 2.85vw !important;
+        font-size: 2.55vw !important;
     }
     .ourteamheading {
         font-size: 5vw !important;
@@ -1696,7 +1696,7 @@ body, html {
     }
     .showcasediv {
         height: 140vh !important;
-        margin-bottom: 0 !important;
+        margin-bottom: -150px !important;
     }
 
     .showcasingcolumndiv{
@@ -1754,11 +1754,11 @@ body, html {
         font-size: 1vw !important;
     }
     .events-card-home .card-title {
-        line-height: 5%;
+        line-height: 3%;
         /* margin-top:20px !important; */
         padding-top: 20px !important;
         padding-bottom: 10px !important;
-        font-size: 1.2vw !important;
+        font-size: 1.1vw !important;
         width: 100%;
     }
     .events-card-home .card-text {
@@ -2682,7 +2682,7 @@ body, html {
     float: right;
     margin-left: 50px ;
     margin-top: 300px ;
-    margin-bottom: -70px;
+    margin-bottom: -300px;
     height: 700px;
 }
 
@@ -2970,7 +2970,7 @@ body, html {
     display: flex;
     width: 100%;
     justify-content: center;
-    margin-top: -30px;
+    margin-top: 40px;
     font-weight: 700 !important;
     color: #F45947;
 }
@@ -2980,9 +2980,9 @@ body, html {
     display: flex;
     width: 100%;
     justify-content: center;
-    margin-top: -30px;
     font-weight: 700 !important;
     margin-bottom: 20px !important;
+    color: #F45947;
     
 
 }

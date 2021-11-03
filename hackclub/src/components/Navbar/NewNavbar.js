@@ -2,7 +2,7 @@ import  React, { Component } from "react";
 import { useState } from "react";
 import * as FaIcons from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import navbarbrandlogo from '../../eventimages/hackclubassets/hc_color.png'
+import navbarbrandlogo from '../../eventimages/hackclubassets/hc.png'
 
 import "./NewNavbar.css";
 

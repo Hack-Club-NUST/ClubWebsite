@@ -4,7 +4,7 @@
     display: flex;
     width: 100%;
     justify-content: center;
-    margin-top: -240px;
+    margin-top: -320px;
     font-weight: 700 !important;
     color:#EC3B4F
 }
@@ -361,7 +361,7 @@
 
 .teamButton {
     margin-top: 20px;
-    background-color: #F45947;
+    background-color: #EC3B4F;
     color: #fff;
     padding: 10px 20px 10px 20px;
     font-size: 16px;
