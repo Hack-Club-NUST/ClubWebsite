@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../eventimages/aboutus.gif'
+import image from '../eventimages/abt.gif'
 export default function Aboutus() {
 
     return (

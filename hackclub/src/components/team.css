@@ -6,12 +6,13 @@
     justify-content: center;
     margin-top: -240px;
     font-weight: 700 !important;
+    color:#EC3B4F
 }
 
 .ourteamheading .specialdiv {
     width: 24rem;
     height: 5px;
-    background: black;
+    background: #F45947;
     margin: 1rem auto;
 }
 
@@ -148,7 +149,7 @@
 
 .our-team .pic:after {
     /* background: rgba(8,75,77,0.8);*/
-    background: rgb(175, 57, 57);
+    background: #9D90FC;
     top: auto;
     left: auto;
     bottom: -100%;
@@ -225,7 +226,7 @@
     font-size: 22px;
     font-weight: 700;
     letter-spacing: 2px;
-    color: rgb(175, 57, 57);
+    color: #4949F2;
     text-transform: uppercase;
     margin-bottom: 7px;
 }
@@ -234,7 +235,7 @@
     display: block;
     font-size: 17px;
     font-weight: 600;
-    color: #707070;
+    color: #0D1119;
     text-transform: capitalize;
 }
 
@@ -360,7 +361,7 @@
 
 .teamButton {
     margin-top: 20px;
-    background-color: #ec3750;
+    background-color: #F45947;
     color: #fff;
     padding: 10px 20px 10px 20px;
     font-size: 16px;
