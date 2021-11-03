@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="row">
           <div className="col-sm-12 col-md-5">
             <h6>Partners</h6>
-            <ul className="footer-links d-md-flex ">
+            <ul className="footer-links d-md-flex partners-ul ">
               <li><a href="https://gdsc.community.dev/national-university-of-sciences-and-technology-nust/"><img style={{width:"60px",height:"50px",marginTop:"10px"}} src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/logo_Iu2smSE.png"></img></a></li>
               <li><a href="https://mlsalahore.com/"><img style={{width:"60px",height:"50px",marginTop:"10px"}} src="https://mlsalahore.com/static/img/mlsaofficial-logo.png"></img></a></li>
               <li><a href="https://www.linkedin.com/company/nust-media-club/"><img style={{width:"60px",height:"50px",marginTop:"10px"}} src=" https://media-exp1.licdn.com/dms/image/C510BAQGnwMwck64Fmg/company-logo_200_200/0/1586365769402?e=1643846400&v=beta&t=nkoFZl0C7RS7LweTkvE2fuSkrLieA6Sl0MPoqtpw2ms"></img></a></li>

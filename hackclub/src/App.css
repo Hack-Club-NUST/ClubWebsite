@@ -29,6 +29,14 @@ a:hover {
     color: #fff;
 }
 
+.partners-ul > li {
+    transition:all 1s ease-in;
+}
+
+.partners-ul > li :hover{
+    transform: scale(1.05) !important;
+}
+
 body, html {
     overflow-x: hidden !important;
 }
@@ -2752,7 +2760,7 @@ body, html {
 
 
 .homecontainer h2 {
-    color: black;
+    color: #ec3750 !important;
     position: absolute;
     top: 48%;
     font-size: 64px;
