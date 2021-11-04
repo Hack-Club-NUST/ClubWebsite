@@ -21,7 +21,7 @@ export default function ContactUs() {
        
                           <div class="card" style={{width:'22rem'}}>
                                 <div class="card-body">
-                                   <h5 style={{color:"#31303D"}} class="card-title">Talk to a member of our Support team</h5>
+                                   <h5 style={{color:"#F45947"}} class="card-title">Talk to a member of our Support team</h5>
                                     <Avatar
                                       avatarStyle='Transparent'
                                       topType='Hat'
@@ -51,7 +51,7 @@ export default function ContactUs() {
 
                           <div class="card" style={{width:'22rem'}}>
                              <div class="card-body">
-                                 <h5 style={{color:"#31303D"}} class="card-title text-center">Contact Details</h5>
+                                 <h5 style={{color:"#31303D",fontWeight:"bolder"}} class="card-title text-center">Contact Details</h5>
                                     <br/>
 
                                     <h6 class="card-text text-center">Hack Club Nust  Email:  </h6>

@@ -18,6 +18,14 @@ body {
     color: #fff;
     border: none;
 }
+.contactusbutton:hover{
+    background-color: #F45947;
+    color:white;
+}
+.contactusbutton:active{
+    background-color: white;
+    transform: translateX(5px)
+}
 
 * {
     margin: 0;
@@ -27,6 +35,14 @@ body {
 a:hover {
     transform: scale(1.045) !important;
     color: #fff;
+}
+
+.partners-ul > li {
+    transition:all 1s ease-in;
+}
+
+.partners-ul > li :hover{
+    transform: scale(1.05) !important;
 }
 
 body, html {
@@ -1215,6 +1231,7 @@ body, html {
 
     .showcasingcolumndiv{
         margin-top:300px !important;
+        margin-bottom:-700px !important;
     }
     .eventscontent-column {
         display: flex;
@@ -2413,29 +2430,29 @@ body, html {
 
 #teams-section .specialdiv{
     width: 24rem;
-    height: 5px;
-    background: black;
+    height: 2.5px;
+    background: #b9b3b3;
     margin: 1rem auto;
 }
 
 .ourteamheading .specialdiv {
     width: 24rem;
-    height: 5px;
-    background: black;
+    height: 2.5px;
+    background: #b9b3b3;
     margin: 1rem auto;
 }
 
 #contact-us .specialdiv {
     width: 24rem;
-    height: 5px;
-    background: black;
+    height: 2.5px;
+    background: #b9b3b3;
     margin: 1rem auto;
 }
 
 #aboutus .specialdiv {
     width: 24rem;
-    height: 5px;
-    background: black;
+    height: 2.5px;
+    background: #b9b3b3;
     margin: 1rem auto;
 }
 
@@ -2752,7 +2769,7 @@ body, html {
 
 
 .homecontainer h2 {
-    color: black;
+    color: #ec3750 !important;
     position: absolute;
     top: 48%;
     font-size: 64px;
@@ -2808,7 +2825,7 @@ body, html {
     height: 25%;
     color: #fff;
     font-size: 20px;
-    background-color: #F45947;
+    background-color: #EC3B4F;
     margin-left: 10px !important;
     margin: 0 auto;
     text-align: center;
@@ -2819,7 +2836,14 @@ body, html {
     padding: 2px 30px;
     width: 35%;
 }
-
+.taglinediv a:hover{
+    background-color: #F45947;
+    color:white;
+}
+.taglinediv a:active{
+   background-color: white;
+    transform: translateX(5px)
+}
 /* Media queries to handle the background gif */
 
 /* navbar-class */
@@ -2907,6 +2931,9 @@ body, html {
     float: right;
     width: 100%;
 }
+.card-body h6{
+    font-weight: bold;
+}
 
 .event-image-class {
     text-align: center !important;
@@ -2924,7 +2951,7 @@ body, html {
 
 .eventscontent h2 {
     padding-bottom: 10px;
-    border-bottom: 5px solid #000;
+    border-bottom: 2.5px solid #b9b3b3;
     text-align: center;
     margin: 0 auto;
     display: flex;
@@ -3096,6 +3123,7 @@ body, html {
         position: absolute;
         font-weight: bolder !important;
         top: 75vh !important;
+        margin-top: 100px !important;
         left: 6.4vw !important;
         font-size: 2em !important;
     }

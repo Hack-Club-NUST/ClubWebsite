@@ -58,10 +58,10 @@ export default function Team() {
             <h2 className="text-center ourteamheading" id="team">OUR TEAM</h2>
             <div className="specialdiv" style={{}} />
             <h3 className="text-center taglineteam">
-                <span className="highlighword1">Together</span>
-                <span className="highlighword2">Everyone </span>
-                <span className="highlighword1">Achieves </span>
-                <span className="highlighword2">More</span></h3>
+                <span className="highlighword">Together</span>
+                <span className="highlighword">Everyone </span>
+                <span className="highlighword">Achieves </span>
+                <span className="highlighword">More</span></h3>
 
             <div className="container">
                 <div className="row">

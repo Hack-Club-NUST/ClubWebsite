@@ -84,19 +84,14 @@
     }
 }
 
-.highlighword1 {
-    text-shadow: 1px 1px purple;
+.highlighword {
+   
     margin-left: 7px;
     font-size: 20px !important;
     font-weight: 500 !important;
 }
 
-.highlighword2 {
-    text-shadow: 1px 1px rgb(230, 97, 119);
-    margin-left: 7px;
-    font-size: 20px !important;
-    font-weight: 500 !important;
-}
+
 
 @media screen and (min-width: 200px) and (max-width: 480px) {
     .highlighword1 {
@@ -149,7 +144,7 @@
 
 .our-team .pic:after {
     /* background: rgba(8,75,77,0.8);*/
-    background: #9D90FC;
+    background: #FFBD48;
     top: auto;
     left: auto;
     bottom: -100%;
@@ -226,7 +221,7 @@
     font-size: 22px;
     font-weight: 700;
     letter-spacing: 2px;
-    color: #4949F2;
+    color: #F45947;
     text-transform: uppercase;
     margin-bottom: 7px;
 }
@@ -363,12 +358,22 @@
     margin-top: 20px;
     background-color: #EC3B4F;
     color: #fff;
-    padding: 10px 20px 10px 20px;
+    padding: 20px 37px;
     font-size: 16px;
     font-weight: 500;
-    border-radius: 0px;
+    border-radius: 12px;
     border: none;
     -webkit-appearance: none;
     appearance: none;
     text-decoration: none;
+    
+   
+}
+.teamButton:hover{
+    background-color: #F45947;
+    color:white;
+}
+.teamButton:active{
+    background-color: white;
+    transform: translateX(5px)
 }
