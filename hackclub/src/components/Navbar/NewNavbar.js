@@ -2,7 +2,7 @@ import  React, { Component } from "react";
 import { useState } from "react";
 import * as FaIcons from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import navbarbrandlogo from '../../eventimages/hackclubassets/hc.png'
+import navbarbrandlogo from '../../eventimages/hackclubassets/hc_Logo_100.svg'
 
 import "./NewNavbar.css";
 
@@ -21,7 +21,7 @@ export default class NewNavbar extends Component {
 
 
 <nav className=  'navbar navbar-expand-lg navbar-transparent navbar-active  '  >
-  <a className="navbar-brand" href="#"> <img src={navbarbrandlogo} alt="" /></a>
+  <a className="navbar-brand" href="#"> <img src={navbarbrandlogo}  style={{ height: 80, width: 80 }} alt="" /></a>
   <div className="menu-icons" onClick={this.handleClick}>
   <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
   </div>

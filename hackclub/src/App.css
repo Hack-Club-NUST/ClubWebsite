@@ -522,14 +522,14 @@ body, html {
         font-weight: bolder !important;
         color:#ec3750 !important;
         position: absolute;
-        top: 14% !important;
+        top: 21% !important;
         left: 6vw !important;
-        font-size:1.20em !important;
+        font-size:0.95em !important;
     }
     .taglinediv {
         position: absolute;
         /* top: 18.94% !important; */
-        top: 17.94% !important;
+        top: 21% !important;
         left: 6.4vw !important;
         height: 8.2em !important;
         padding: 0 !important;
@@ -543,20 +543,23 @@ body, html {
         font-size:7px !important;
         padding: 1.2px 0px !important;
         margin-bottom: 15px auto !important;
-        margin-left:1.5% !important;
+        margin-left:1% !important;
         border-radius: 4px !important;
+        left:1.5vw !important;
     }
     .showcasediv {
         height: 40vh !important;
-        margin-bottom: -60px !important;
+        margin-bottom: 0px !important;
     }
 
     .showcasingcolumndiv {
-        margin-top : 50px !important;
-        height: 100%;
+        background-size: 95% !important;
+        /* margin-top : 250px !important; */
+        height: 50%;
         margin:0 !important ;
-     top:10% !important;
+     top:15% !important;
      width:50% !important;
+     margin-bottom: 100px;
       
     
     }
@@ -1197,13 +1200,13 @@ body, html {
     }
     .textcasediv h2 {
         position: absolute;
-        top: 58vh !important;
+        top: 80vh !important;
         left: 6vw !important;
         font-size: 2em !important;
     }
     .taglinediv {
         position: absolute;
-        top: 60vh !important;
+        top: 80vh !important;
         left: 4.5vw !important;
         height: 17.5em !important;
         padding: 0 !important;
@@ -1459,13 +1462,13 @@ body, html {
     .textcasediv h2 {
         font-weight: bolder !important;
         position: absolute;
-        top: 62vh !important;
+        top: 77.5vh !important;
         left: 6vw !important;
         font-size: 2.5em !important;
     }
     .taglinediv {
         position: absolute;
-        top: 65.5vh !important;
+        top: 80.5vh !important;
         left: 5.5vw !important;
         height: 20.5em !important;
         padding: 0 !important;
@@ -1684,14 +1687,14 @@ body, html {
         font-weight: bolder;
         position: absolute;
         color: #ec3750 !important;
-        top: 80vh !important;
+        top: 90vh !important;
         left: 3vw !important;
         font-size: 3.5em !important;
      
     }
     .taglinediv {
         position: absolute;
-        top: 91vh !important;
+        top: 95vh !important;
         left: 3vw !important;
         height: 20.5em !important;
         padding: 0 !important;
@@ -2826,7 +2829,7 @@ body, html {
     color: #fff;
     font-size: 20px;
     background-color: #EC3B4F;
-    margin-left: 10px !important;
+    margin-left: 10px ;
     margin: 0 auto;
     text-align: center;
     flex-wrap: wrap;
@@ -3122,14 +3125,14 @@ body, html {
     .textcasediv h2 {
         position: absolute;
         font-weight: bolder !important;
-        top: 75vh !important;
+         top: 58vh !important; 
         margin-top: 100px !important;
         left: 6.4vw !important;
         font-size: 2em !important;
     }
     .taglinediv {
         position: absolute;
-        top: 75vh !important;
+        top: 75vh !important; 
         left: 3.5vw !important;
         height: 17.5em !important;
         padding: 0 !important;
@@ -3159,14 +3162,14 @@ body, html {
     .textcasediv h2 {
         position: absolute;
         font-weight: bolder !important;
-        top:62vh !important;
+        top:75vh !important;
         color: #ec3750 !important;
         left: 7.5vw !important;
         font-size: 2em !important;
     }
 
     .taglinediv{
-        top:62vh !important;
+        top:75vh !important;
         left : 7.5vw !important;
     }
 
@@ -3186,13 +3189,20 @@ body, html {
     }
 
     .showcasediv{
+        top:15%;
       height: 75vh !important;
     }
 
     .showcasingcolumndiv{
+        position: absolute;
+        min-height: 100%;
+        background-size: 95%;
+        top:45% !important;
        margin-top:42% !important;
 
     }
+
+    
 
  
 }
@@ -3201,7 +3211,7 @@ body, html {
     .textcasediv h2 {
         position: absolute;
         font-weight: bolder;
-        top: 52vw !important;
+        top: 75vh !important;
         color: #ec3750 !important;
         left: 6vw !important;
         font-size: 2em !important;
@@ -3209,7 +3219,7 @@ body, html {
 
   
     .taglinediv{
-        top:52vw !important;
+        top:75vh !important;
         left : 6vw !important;
     }
 
@@ -3233,6 +3243,7 @@ body, html {
     }
 
     .showcasingcolumndiv{
+        top:23% !important;
        margin-top:45% !important;
 
     }
@@ -3243,14 +3254,14 @@ body, html {
     .textcasediv h2 {
         font-weight: bolder !important;
         position: absolute;
-        top: 15% !important;
+        top: 30% !important;
         color: #ec3750 !important;
         left: 6vw !important;
         font-size: 1.5em !important;
     }
 
     .taglinediv{
-        top:15% !important;
+        top:30% !important;
         left : 6vw !important;
     }
 
@@ -3269,10 +3280,12 @@ body, html {
     }
 
     .showcasediv{
-      height: 50vh !important;
+      height: 60vh !important;
+      margin-bottom: 0px !important;
     }
 
     .showcasingcolumndiv{
+        top:15% !important;
        margin-top:5px !important;
 
     }
@@ -3290,14 +3303,14 @@ body, html {
     .textcasediv h2 {
         font-weight: bolder !important;
         position: absolute;
-        top: 15% !important;
+        top: 25.5% !important;
         color: #ec3750 !important;
         left: 6vw !important;
         font-size: 1.5em !important;
     }
 
     .taglinediv{
-        top:15% !important;
+        top: 26.55% !important;
         left : 6vw !important;
     }
 
@@ -3318,18 +3331,19 @@ body, html {
       height: 47vh !important;
     }
 
-    .showcasingcolumndiv{
-       margin-top:5px !important;
+    
 
+    .showcasingcolumndiv {
+        background-size: 95% !important;
+        /* margin-top : 250px !important; */
+        height: 50%;
+        margin:0 !important ;
+     top:15% !important;
+     width:50% !important;
+     margin-bottom: 100px;
+      
+    
     }
 }
 
-@media only screen and (max-width: 439px) {
-    .textcasediv h2 {
-        position: absolute;
-        top: 15% !important;
-        color: #ec3750 !important;
-        left: 6vw !important;
-       
-    }
-}
+
