@@ -522,14 +522,14 @@ body, html {
         font-weight: bolder !important;
         color:#ec3750 !important;
         position: absolute;
-        top: 25% !important;
+        top: 22.5% !important;
         left: 6vw !important;
         font-size:0.95em !important;
     }
     .taglinediv {
         position: absolute;
         /* top: 18.94% !important; */
-        top: 25% !important;
+        top: 22.5% !important;
         left: 6.4vw !important;
         height: 8.2em !important;
         padding: 0 !important;
@@ -543,7 +543,7 @@ body, html {
         font-size:7px !important;
         padding: 1.2px 0px !important;
         margin-bottom: 15px auto !important;
-        margin-left:1.5% !important;
+        margin-left:1% !important;
         border-radius: 4px !important;
         left:1.5vw !important;
     }
@@ -2829,7 +2829,7 @@ body, html {
     color: #fff;
     font-size: 20px;
     background-color: #EC3B4F;
-    margin-left: 10px !important;
+    margin-left: 10px ;
     margin: 0 auto;
     text-align: center;
     flex-wrap: wrap;
