@@ -3162,14 +3162,14 @@ body, html {
     .textcasediv h2 {
         position: absolute;
         font-weight: bolder !important;
-        top:62vh !important;
+        top:75vh !important;
         color: #ec3750 !important;
         left: 7.5vw !important;
         font-size: 2em !important;
     }
 
     .taglinediv{
-        top:62vh !important;
+        top:75vh !important;
         left : 7.5vw !important;
     }
 
@@ -3189,13 +3189,20 @@ body, html {
     }
 
     .showcasediv{
+        top:15%;
       height: 75vh !important;
     }
 
     .showcasingcolumndiv{
+        position: absolute;
+        min-height: 100%;
+        background-size: 95%;
+        top:45% !important;
        margin-top:42% !important;
 
     }
+
+    
 
  
 }
