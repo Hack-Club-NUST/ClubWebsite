@@ -4,6 +4,8 @@ import Carousel from "react-elastic-carousel";
 
 import "./style.css";
 import event1 from '../../eventimages/event1.PNG'
+import event2 from '../../eventimages/event2.jpg'
+import event3 from '../../eventimages/event3.jpg'
 const breakPoints = [
 
     { width: 1, itemsToShow: 1},
@@ -42,51 +44,50 @@ export default function Event() {
                             <div className="col-md-8 cardscontainer">
                 <Carousel breakPoints={breakPoints}>
 
-    <div>
+                <div>
                                 
                                 
 
-            <div class="card events-card-home" >
-
-            <div class="card-body">
-            <img className="event-image-class" src={event1} ></img>
-            <br/><br/>
-            <span className="cardcontent">
-                <span className="float-left">  <h5 className="card-date">12 Aug,2021</h5></span >
-                <span className="float-right">No Terminal</span>
-            </span>
-                <h5 class="card-title"> Building Cli Applications in Node.Js</h5>
-                <p class="card-text">   Hack Club NUST brings an amazing opportunity to learn everything you need to know about building CLI(Command Line Interface) applications through the power of Node.js!
-            </p>
-            
-            </div>
-            </div>
-
-    </div>
-
-
-    <div>
+                                <div class="card events-card-home" >
+               
+                           <div class="card-body">
+                           <img className="event-image-class" src={event1} ></img>
+                           <br/><br/>
+                           <span className="cardcontent">
+                               <span className="float-left">  <h5 className="card-date">12 Aug,2021</h5></span >
+                              
+                           </span>
+                               <h5 class="card-title"> Building Cli Applications in Node.Js</h5>
+                               <p class="card-text">   Hack Club NUST brings an amazing opportunity to learn everything you need to know about building CLI(Command Line Interface) applications through the power of Node.js!
+                           </p>
+                           
+                           </div>
+                           </div>
+               
+                   </div>
+                   <div>
                                 
                                 
 
-                                     <div class="card events-card-home" >
-                    
-                                <div class="card-body">
-                                <img className="event-image-class" src={event1} ></img>
-                                <br/><br/>
-                                <span className="cardcontent">
-                                    <span className="float-left">  <h5 className="card-date">12 Aug,2021</h5></span >
-                                    <span className="float-right">Terminal</span>
-                                </span>
-                                    <h5 class="card-title"> Building Cli Applications in Node.Js</h5>
-                                    <p class="card-text">   Hack Club NUST brings an amazing opportunity to learn everything you need to know about building CLI(Command Line Interface) applications through the power of Node.js!
-                                </p>
-                                
-                                </div>
-                                </div>
-                    
-                        </div>
+                                <div class="card events-card-home" >
+               
+                           <div class="card-body">
+                           <img className="event-image-class" src={event2} ></img>
+                           <br/><br/>
+                           <span className="cardcontent">
+                               <span className="float-left">  <h5 className="card-date">13 Aug,2021</h5></span >
+                              
+                           </span>
+                               <h5 class="card-title">Demystifying Career Pathways in IT</h5>
+                               <p class="card-text">Computer Sciences has many disciplines to choose from, and you can choose any path that suits your particular interests. But, if you're having a hard time in CS, and finding yourself in a dilemma to choose the right career path for yourself, Hack Club NUST brings you an amazing opportunity to make up a killer career plan for yourself!
+                           </p>
+                           
+                           </div>
+                           </div>
+               
+                   </div>
 
+    
                         <div>
                                 
                                 
@@ -94,14 +95,14 @@ export default function Event() {
                                      <div class="card events-card-home" >
                     
                                 <div class="card-body">
-                                <img className="event-image-class" src={event1} ></img>
+                                <img className="event-image-class" src={event3} ></img>
                                 <br/><br/>
                                 <span className="cardcontent">
-                                    <span className="float-left">  <h5 className="card-date">12 Aug,2021</h5></span >
+                                    <span className="float-left">  <h5 className="card-date">29 October</h5></span >
                                     <span className="float-right">Terminal</span>
                                 </span>
-                                    <h5 class="card-title"> Building Cli Applications in Node.Js</h5>
-                                    <p class="card-text">   Hack Club NUST brings an amazing opportunity to learn everything you need to know about building CLI(Command Line Interface) applications through the power of Node.js!
+                                    <h5 class="card-title">LEARN O' CLOCK</h5>
+                                    <p class="card-text">Hack Club NUST is back with another exciting event, this time as part of Hacktoberfest 2021, in collaboration with Digital Ocean! Join us for our ‘Learn O' Clock’ event, that will give you an opportunity to learn about engaging topics like Git and GitHub, Data Analytics, Flutter Development and more through engaging workshops and sessions!
                                 </p>
                                 
                                 </div>
@@ -109,28 +110,7 @@ export default function Event() {
                     
                         </div>
 
-                        <div>
-                                
-                                
-
-                                     <div class="card events-card-home" >
-                    
-                                <div class="card-body">
-                                <img className="event-image-class" src={event1} ></img>
-                                <br/><br/>
-                                <span className="cardcontent">
-                                    <span className="float-left">  <h5 className="card-date">12 Aug,2021</h5></span >
-                                    <span className="float-right">Terminal</span>
-                                </span>
-                                    <h5 class="card-title"> Building Cli Applications in Node.Js</h5>
-                                    <p class="card-text">   Hack Club NUST brings an amazing opportunity to learn everything you need to know about building CLI(Command Line Interface) applications through the power of Node.js!
-                                </p>
-                                
-                                </div>
-                                </div>
-                    
-                        </div>
-                    
+                        
 
                        
 
