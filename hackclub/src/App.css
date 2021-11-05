@@ -3108,7 +3108,7 @@ body, html {
 
 @media screen and (max-width: 816px) {
     .p {
-        margin-top: 80px !important;
+        margin-top: 150px !important;
         margin-left: 10px !important;
     }
     .img {
