@@ -522,14 +522,14 @@ body, html {
         font-weight: bolder !important;
         color:#ec3750 !important;
         position: absolute;
-        top: 22.5% !important;
+        top: 21% !important;
         left: 6vw !important;
         font-size:0.95em !important;
     }
     .taglinediv {
         position: absolute;
         /* top: 18.94% !important; */
-        top: 22.5% !important;
+        top: 21% !important;
         left: 6.4vw !important;
         height: 8.2em !important;
         padding: 0 !important;
