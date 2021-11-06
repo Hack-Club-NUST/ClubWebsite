@@ -80,7 +80,8 @@ export default function Event() {
                               
                            </span>
                                <h5 class="card-title">Demystifying Career Pathways in IT</h5>
-                               <p class="card-text"> If you're having a hard time in CS, and finding yourself in a dilemma to choose the right career path for yourself, Hack Club NUST brings you an amazing opportunity to make up a killer career plan for yourself!
+                               <p class="card-text">  
+Also, Computer Sciences has many disciplines to choose from, and you can choose any path that suits your particular interests. But, if you're having a hard time in CS, and finding yourself in a dilemma to choose the right career path for yourself, Hack Club NUST brings you an amazing opportunity to make up a killer career plan for yourself!
                            </p>
                            
                            </div>
@@ -103,7 +104,7 @@ export default function Event() {
                                     <span className="float-right">Terminal</span>
                                 </span>
                                     <h5 class="card-title">LEARN O' CLOCK</h5>
-                                    <p class="card-text">Hack Club NUST is back with another exciting event! Join us for our ‘Learn O' Clock’ event, that will give you an opportunity to learn about engaging topics like GitHub, Data Analytics, Flutter Development and more through engaging workshops and sessions!
+                                    <p class="card-text">Gear up, for Hack Club NUST is back with another exciting event! Join us for our ‘Learn O' Clock’ event, that will give you an opportunity to learn about engaging topics like Git and GitHub, Data Analytics, Flutter Development and Django Development through engaging workshops and sessions that will help you dive into a new world of Open-Source development and  more!
                                 </p>
                                 
                                 </div>
