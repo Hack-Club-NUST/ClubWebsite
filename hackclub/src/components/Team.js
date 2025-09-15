@@ -95,7 +95,7 @@ export default function Team() {
                                 </ul>
                             </div>
                             <div className="team-content ">
-                                <h3 className="title">Muhammad Asim Khaskheli</h3>
+                                <h3 className="title">Muhammad Faseeh</h3>
                                 <span className="post">President</span>
                               
                             </div>
