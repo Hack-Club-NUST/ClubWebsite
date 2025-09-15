@@ -59,8 +59,8 @@ export default function ContactUs() {
                                         hackclub.nust@seecs.edu.pk</a>   </p> 
 
                                     <h6 class="card-text text-center">President:  </h6>
-                                    <p class="card-text text-center" > <a href="mailto:mkhaskheli.bese18seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
-                                        mkhaskheli.bese18seecs@seecs.edu.pk</a>   </p> 
+                                    <p class="card-text text-center" > <a href="mailto:mfaseeh.bscs23seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
+                                        mfaseeh.bscs23seecs@seecs.edu.pk</a>   </p> 
 
                                     <h6 class="card-text text-center">Web & It:  </h6>
                                     <p class="card-text text-center" > <a href="mailto:hmehmood.bese18seecs@seecs.edu.pk" style={{textDecoration:'none',color:'black'}}>
